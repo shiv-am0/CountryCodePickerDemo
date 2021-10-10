@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Country Code Picker</string>
+    <string name="description">This is a demo for implementing Country Code Picker</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="heading">Country Code Picker Demo</string>
+    <string name="show_toast">Show Toast</string>
+</resources>
